@@ -36,6 +36,8 @@ If you find this dataset useful in your research, please consider citing our pap
 ## Data
 
 Datasets for **Time**, **Alarm**, and **Reminder** domains is included.
+**Weather** domain data can be found at: https://github.com/facebookresearch/
+TreeNLG .
 Each response was collected by providing annotators, who are native English speakers, with a *user query*, and a *compositional meaning representation* (with discourse relations and dialog acts). All of these are made available in our dataset. See our linked paper for more details.
 
 #### Data Statistics
